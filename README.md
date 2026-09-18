@@ -203,4 +203,5 @@ Possible future improvements include:
 
 ## Author
 
-Devang Sharma
+Lakshya Joshi
+
